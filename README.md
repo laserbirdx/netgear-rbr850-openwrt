@@ -6,6 +6,7 @@
   <a href="https://downloads.openwrt.org/snapshots/targets/qualcommax/ipq807x/"><img src="https://img.shields.io/badge/OpenWrt-SNAPSHOT%20%28qualcommax%2Fipq807x%29-blue" alt="OpenWrt Support" /></a>
   <a href="https://github.com/jclehner/nmrpflash"><img src="https://img.shields.io/badge/Verified%20On-macOS%20%28Apple%20Silicon%29-success" alt="Verified on macOS" /></a>
   <a href="https://github.com/laserbirdx/netgear-rbs850-openwrt"><img src="https://img.shields.io/badge/Companion%20Repo-Netgear%20RBS850%20Satellite-orange" alt="Companion Repo: RBS850" /></a>
+  <a href="https://github.com/laserbirdx/netgear-rbx850-openwrt-nss"><img src="https://img.shields.io/badge/EDMA--NSS%20Firmware-Netgear%20RBx850%20NSS-blueviolet" alt="EDMA-NSS Firmware" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
 </p>
 
@@ -162,6 +163,7 @@ Once finished, open **[http://192.168.1.1](http://192.168.1.1)** in your browser
 ---
 
 ## Related Projects & References
+* ⚡ **EDMA-NSS Hardware Offload Firmware Builds:** **[laserbirdx/netgear-rbx850-openwrt-nss](https://github.com/laserbirdx/netgear-rbx850-openwrt-nss)** (OpenWrt Linux 6.18.55 with Qualcomm NSS hardware acceleration for RBR850 & RBS850)
 * Companion Satellite Guide: **[laserbirdx/netgear-rbs850-openwrt](https://github.com/laserbirdx/netgear-rbs850-openwrt)** (Netgear Orbi RBS850 Satellite OpenWrt Guide & Router Conversion)
 * Device support authored by **Michael Lotz** (`@mmlr`) and adapted/merged by **Piotr Szczepanik** (`@piter75`) in [openwrt/openwrt#24906](https://github.com/openwrt/openwrt/pull/24906).
 * [OpenWrt Forum Thread: Anyone working on Netgear RBR850?](https://forum.openwrt.org/t/anyone-working-on-netgear-rbr850/127999)
